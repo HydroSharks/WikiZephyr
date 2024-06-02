@@ -1,3 +1,7 @@
+---
+sort: 2
+---
+
 # Voiles
 
 ## Relatif aux voiles du Zéphyr

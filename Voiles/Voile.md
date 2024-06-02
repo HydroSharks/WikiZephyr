@@ -1,3 +1,7 @@
+---
+sort: 1
+---
+
 # Voiles
 Le Zéphyr étant mu seulement par la propulsion vélique, ses deux voiles en sont un élément important.  
 Chacune de ses voiles sont des ***wingsails***, c'est-à-dire des ***voiles rigides***.  

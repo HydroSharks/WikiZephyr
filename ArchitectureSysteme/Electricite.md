@@ -1,3 +1,7 @@
+---
+sort: 3
+---
+
 # Électricité
 
 Le bateau est alimenté en électricité par deux panneaux solaires de 300 W.  

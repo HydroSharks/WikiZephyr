@@ -1,3 +1,7 @@
+---
+sort: 1
+---
+
 # Coque
 
 Pour sa construction, la coque se décompose en 4 parties distinctes : 

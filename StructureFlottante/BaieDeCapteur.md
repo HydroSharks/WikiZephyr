@@ -1,3 +1,7 @@
+---
+sort: 3
+---
+
 # Baie de capteur
 
 La baie de capteur est une boite étanche dans laquelle des équipements sont accrochés.

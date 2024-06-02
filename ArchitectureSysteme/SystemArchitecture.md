@@ -1,3 +1,7 @@
+---
+sort: 1
+---
+
 # Architecture système du Zéphyr
 
 Cette partie documente l'architecture de commande du voilier dans ses différents modes, elle est inspirée de l'architecture de l'[AutoNaut](https://autonaut.itk.ntnu.no/doku.php?id=start).
