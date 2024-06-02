@@ -6,9 +6,11 @@ Deux options sont possibles :
 - Une boite dans laquelle des sondes et capteur sont en contact avec l'eau
 - Un mât sur lequel sont accrochés les différents capteurs
 
-> [!TIP]
-> Pour le moment, l'idée de mât semble la plus prometteuse car plus facile à mettre à disposition des différents laboratoires.  
-> De plus, il est possible d'atteindre différentes profondeurs avec un mât.
+```tip
+Pour le moment, l'idée de mât semble la plus prometteuse car plus facile à mettre à disposition des différents laboratoires.  
+De plus, il est possible d'atteindre différentes profondeurs avec un mât.
+```
+
 
 
 # Arrangement

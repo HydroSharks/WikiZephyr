@@ -2,12 +2,13 @@
 
 Le bateau est alimenté en électricité par deux panneaux solaires de 300 W.  
 
-> [!TIP]  
-> Voir si on ne peut pas trouver mieux car choisi le *30/07/2023*  
+```tip
+Voir si on ne peut pas trouver mieux car choisi le *30/07/2023*  
+```  
 
 Deux faisceaux de câbles sont prévues, 1 pour les câbles de puissance et un autre pour les câbles d'informations. Pour éviter la déformation des signaux par les champs électromagnétiques des câbles de puissances, les deux faisceaux seront séparés de chaque côté des boites. (Cf rendu provisoire ci-dessous)  
 
-<img src="https://github.com/HydroSharks/ZephyrWiki/blob/main/FaisceauxElectrique.png?raw=true" alt="Rendu provisoire des faisceaux électrique" width=600/>  
+<img src="images/FaisceauxElectrique.png" alt="Rendu provisoire des faisceaux électrique" width=600/>  
 
 Le faisceau de puissance est représenté en rouge. Les câbles de puissance représentent tous les câbles qui n'ont pour unique vocation d'alimenter les différents équipements.  
 Le faisceau d'information est représenté en bleu. Les câbles d'information sont tous les câbles qui transmettent de l'information aux équipements, cela peut être des données ou des ordres. Par exemple, les données de la baie de capteurs envoyés au PC ou les directives données par le PC pour commander les vérins, les moteurs ou tout autre équipement.  
@@ -51,15 +52,15 @@ Dans la boite n°3, il est prévu de mettre le contrôleur de charge ainsi que l
 
 Représente les connexions des différents éléments du Zéphyr  
 
-<img src="https://github.com/HydroSharks/ZephyrWiki/blob/main/electrical_diagram.png?raw=true" alt="Squelette du Zéphyr" width=400/>
+<img src="images/electrical_diagram.png" alt="Squelette du Zéphyr" width=400/>
 
 ### Puissance
 Représente les connexions pour transmettre du courant aux éléments du Zéphyr  
 
-<img src="https://github.com/HydroSharks/ZephyrWiki/blob/main/power_diagram.png?raw=true" alt="Squelette du Zéphyr" width=400/>
+<img src="images/power_diagram.png" alt="Squelette du Zéphyr" width=400/>
 
 ### Information
 Représente les connexions pour transmettre de l'information aux éléments du Zéphyr  
 
-<img src="https://github.com/HydroSharks/ZephyrWiki/blob/main/info_diagram.png?raw=true" alt="Squelette du Zéphyr" width=400/>
+<img src="images/info_diagram.png" alt="Squelette du Zéphyr" width=400/>
 

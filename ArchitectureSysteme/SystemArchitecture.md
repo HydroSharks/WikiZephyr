@@ -35,9 +35,10 @@ Dans ce niveau se trouve tous les algorithmes de décision du bateau, on y trouv
 
 Dans ce niveau se trouve tous les équipements que le Zéphyr embarquera à bord pour compléter ses missions scientifiques. Cette partie est donc à compléter une fois que l'utilisation du bateau a été définie.
 
-> [!TIP]
-> Ce niveau fait remarquer la possible nécessité d'un autre ordinateur de bord pour gérer les flux de données des différents capteurs.  
-> Une baie de stockage d'information sera aussi à ajouter afin de garder les logs des capteurs
+```tip
+Ce niveau fait remarquer la possible nécessité d'un autre ordinateur de bord pour gérer les flux de données des différents capteurs.  
+Une baie de stockage d'information sera aussi à ajouter afin de garder les logs des capteurs
+```
 
 ## Schéma
 

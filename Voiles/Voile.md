@@ -4,7 +4,7 @@ Chacune de ses voiles sont des ***wingsails***, c'est-à-dire des ***voiles rigi
 Pour être plus précis, les *wingsails* sont des voiles empruntées aux navires de courses, qui se composent d'un **plan principal** et d'un **volet**, et dont le principe est identique à celui des ailes d'avions : créer de la "*portance*" grâce au vent vitesse.  
 Le profil d'aile prévue pour les voiles est le même que celui des [**AC-72**](https://en.wikipedia.org/wiki/AC72) :  
 
-<img src="https://github.com/HydroSharks/ZephyrWiki/blob/main/profile_voile_zephyr.png?raw=true" width=400 title="Profil d'aile des voiles du Zéphyr" alt="Profil ailes Zéphyr">
+<img src="images/profile_voile_zephyr.png" width=400 title="Profil d'aile des voiles du Zéphyr" alt="Profil ailes Zéphyr">
 
 # Plan principal
 
@@ -18,7 +18,7 @@ Ajouter une vis sur les maintiens de voile principal de 40 mm en haut, pas besoi
 
 Passer une corde dans le tube de maintien de position des gabarits sur le plan principal pour équilibrer les forces des fils de forme du bord d'attaque.
 
-<img src="https://github.com/HydroSharks/ZephyrWiki/blob/main/loquetABascule.jpg?raw=true" width=400 title="Profil d'aile des voiles du Zéphyr" alt="Profil ailes Zéphyr">
+<img src="images/loquetABascule.jpg" width=400 title="Profil d'aile des voiles du Zéphyr" alt="Profil ailes Zéphyr">
 
 
 Pour étanchéifier les blocs support du haut et du bas : [lien verni marin](https://www.amazon.fr/Vernis-marin-Protection-Excellente-r%C3%A9sistance/dp/B08XQR2Q78?th=1).
