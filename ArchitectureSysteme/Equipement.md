@@ -1,4 +1,4 @@
-# Généralités
+# Équipements
 
 
 

@@ -1,5 +1,4 @@
-Cette page est dédiée à la coque !
-# Généralités
+# Coque
 
 Pour sa construction, la coque se décompose en 4 parties distinctes : 
 * Le **squelette** en contre plaqué marine 5 mm

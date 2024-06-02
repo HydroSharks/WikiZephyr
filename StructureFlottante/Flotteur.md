@@ -1,4 +1,4 @@
- # Généralités
+# Flotteur
 
 Le Zéphyr étant un trimaran, il est composé d'une coque principale et de 2 flotteurs.  
 Les flotteurs sont construits de la même manière que la coque, un squelette en contre-plaqué et sa forme en polystyrène .  
