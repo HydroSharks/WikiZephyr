@@ -56,15 +56,15 @@ Dans la boite n°3, il est prévu de mettre le contrôleur de charge ainsi que l
 
 Représente les connexions des différents éléments du Zéphyr  
 
-<img src="images/electrical_diagram.png" alt="Squelette du Zéphyr" width=400/>
+<img src="images/electrical_diagram.png" alt="Diagramme électrique complet" width=400/>
 
 ### Puissance
 Représente les connexions pour transmettre du courant aux éléments du Zéphyr  
 
-<img src="images/power_diagram.png" alt="Squelette du Zéphyr" width=400/>
+<img src="images/power_diagram.png" alt="Diagramme électrique de puissance" width=400/>
 
 ### Information
 Représente les connexions pour transmettre de l'information aux éléments du Zéphyr  
 
-<img src="images/info_diagram.png" alt="Squelette du Zéphyr" width=400/>
+<img src="images/info_diagram.png" alt="Diagramme électrique d'information" width=400/>
 
