@@ -105,14 +105,14 @@ Stepper motor controler à déterminer pour pouvoir compléter le niveau 1.
 
 **Schéma global de la planification de la navigation**
 
-<img src="images/NavPlanning_2.png" width=600 title="Schéma global de la planification de la navigation" alt="Schéma global de la planification de la navigation">
+<img src="images/NavPlanning_2.png" width=1000 title="Schéma global de la planification de la navigation" alt="Schéma global de la planification de la navigation">
 
 
 ### Algorithmes
 
 #### Schéma de decision du Zéphyr
 
-<img src="images/DecisionScheme.png" width=400 title="Schéma de decision du Zéphyr" alt="Schéma de decision du Zéphyr">
+<img src="images/DecisionScheme.png" width=800 title="Schéma de decision du Zéphyr" alt="Schéma de decision du Zéphyr">
 
 
 #### Évitement d'obstacle
