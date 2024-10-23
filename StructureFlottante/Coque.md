@@ -43,7 +43,8 @@ Pour ce qui est de l'électricité, il faudra faire sortir des câbles à l'aide
 480 mm high (avec brides)
 300 mm wide
 
-Hauteur des chevrons pour les fixation des tubes en aluminium aux flotteurs :
+Hauteur des chevrons pour les fixation des tubes en aluminium aux flotteurs :  
+
 <img src="images/HauteurChevron.png" alt="Hauteur des chevrons pour la fixation des tubes des flotteurs" width=400/>
 
 
