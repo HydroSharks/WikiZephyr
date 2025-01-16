@@ -48,6 +48,11 @@ Pour alimenter les équipements externes des boites, une interface de connexion 
 - **Hauteur avec brides** : 480 mm  
 - **Largeur** : 300 mm  
 
+Hauteur des chevrons pour les fixation des tubes en aluminium aux flotteurs :  
+
+<img src="images/HauteurChevron.png" alt="Hauteur des chevrons pour la fixation des tubes des flotteurs" width=400/>
+
+
 ## Dimensions générales minimales
 - **Longueur** : 4.7 m  
 - **Hauteur totale** : 3.8 m  
