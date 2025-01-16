@@ -4,26 +4,32 @@ sort: 3
 
 # Électricité
 
-Le bateau est alimenté en électricité par deux panneaux solaires de 300 W.  
+Le bateau est alimenté en électricité par **deux panneaux solaires de 300 W**.
 
 ```tip
-Voir si on ne peut pas trouver mieux car choisi le *30/07/2023*  
+Il serait utile de vérifier si de nouveaux panneaux plus performants sont disponibles, car ceux-ci ont été choisis le *30/07/2023*.
 ```  
 
-Deux faisceaux de câbles sont prévues, 1 pour les câbles de puissance et un autre pour les câbles d'informations. Pour éviter la déformation des signaux par les champs électromagnétiques des câbles de puissances, les deux faisceaux seront séparés de chaque côté des boites. (Cf rendu provisoire ci-dessous)  
+Deux faisceaux de câbles sont prévus :  
+1. **Un faisceau pour les câbles de puissance**, qui alimente les différents équipements.  
+2. **Un faisceau pour les câbles d'information**, qui transmet les données ou les ordres entre les équipements.
+
+Pour éviter la déformation des signaux par les champs électromagnétiques des câbles de puissance, ces deux faisceaux seront séparés de chaque côté des boîtes (Cf rendu provisoire ci-dessous).  
 
 <img src="images/FaisceauxElectrique.png" alt="Rendu provisoire des faisceaux électrique" width=600/>  
 
-Le faisceau de puissance est représenté en rouge. Les câbles de puissance représentent tous les câbles qui n'ont pour unique vocation d'alimenter les différents équipements.  
-Le faisceau d'information est représenté en bleu. Les câbles d'information sont tous les câbles qui transmettent de l'information aux équipements, cela peut être des données ou des ordres. Par exemple, les données de la baie de capteurs envoyés au PC ou les directives données par le PC pour commander les vérins, les moteurs ou tout autre équipement.  
+- **Faisceau de puissance** (représenté en rouge) : Ce faisceau regroupe tous les câbles qui alimentent les équipements sans autre fonction que l'alimentation électrique.
+  
+- **Faisceau d'information** (représenté en bleu) : Ce faisceau regroupe les câbles qui transmettent des informations aux équipements. Cela inclut par exemple les données de la baie de capteurs envoyées au PC ou les directives données par le PC pour commander des vérins, moteurs ou autres composants.
 
-Pour éviter le bruit dans les signaux, surtout ceux qui nécessitent une grande précision, il est nécessaire de blinder certain des câbles (coût plus élevé).
+Pour éviter les interférences et le bruit dans les signaux, notamment pour ceux qui nécessitent une grande précision, certains câbles d'information devront être blindés, bien que cela entraîne un coût supplémentaire.
 
-Les faisceaux électriques sont des tubes en PVC avec des raccords en **T** pour dispatcher les bons câbles dans les bonnes boites. Ils seront placés le plus haut possible pour qu'en cas d'avarie, l'eau ne puissent pas rentrer dedans facilement.  
+Les faisceaux électriques sont des tubes en **PVC**, dotés de raccords en **T** pour diriger les câbles vers les bonnes boîtes. Ils seront installés aussi haut que possible pour éviter que l'eau ne pénètre à l'intérieur en cas d'avarie.
 
-De plus, la baie de capteur est alimenté par le haut de chaque côté par un flexible étanche, un pour l'information et un pour la puissance comme toujours (Se référer à l'[arrangement](BaieDeCapteur#arrangement) de la baie de capteur pour plus de détail). D'où le choix de faire passer les faisceaux à l'extérieur.
+De plus, la baie de capteurs est alimentée par le haut de chaque côté par des **flexibles étanches** : un pour l'information et un pour la puissance, comme décrit dans l'[arrangement](BaieDeCapteur#arrangement) de la baie de capteurs. C'est pourquoi les faisceaux seront installés à l'extérieur.
 
-Dans la boite n°3, il est prévu de mettre le contrôleur de charge ainsi que le boîtier à fusible. Les deux seront monter sur rails verticaux à l'intérieur des boites afin de pouvoir manipuler les équipements plus facilement.
+Dans la **boîte n°3**, il est prévu d'installer le **contrôleur de charge** ainsi que le **boîtier à fusibles**. Les deux seront montés sur des rails verticaux à l'intérieur de la boîte, afin de faciliter leur manipulation et entretien.
+
 
 # Cahiers des charges
 
@@ -34,15 +40,14 @@ Dans la boite n°3, il est prévu de mettre le contrôleur de charge ainsi que l
 | Autonomie en mode normal sans source de puissance apportée | Temps d'utilisation | 72 h | - 6 h |
 | Autonomie en mode dégradé sans source de puissance apportée | Temps d'utilisation | 7 jours | - 1/2 jour |
 | Avoir une batterie de secours pour envoyer des signaux de détresse* | Temps d'utilisation | 7 jours | / |
-| Respect du budget | Prix | < 2500 € | 1000 €
+| Respect du budget | Prix | < 2500 € | 1000 € |
 | Fiabilité, robustesse et durabilité | Matériaux et équipement résistant dans le temps | / | / |
-| Les batteries doivent pouvoir rentrer dans les boites | / | / | / |
-| Les panneaux solaires doivent loger sur les bras des flotteurs | 125x110 cm | / | / |
+| Les batteries doivent pouvoir rentrer dans les boîtes | / | / | / |
+| Les panneaux solaires doivent loger sur les bras des flotteurs | Dimensions : 125x110 cm | / | / |
 | Les panneaux solaires doivent résister au milieu marin | Durabilité | Excellente | / |
-| Être capable de charger les batteries en plus d'alimenté le système lors de condition normale | $\frac{Production}{Consommation}$ | > 1 | / |
+| Être capable de charger les batteries en plus d'alimenter le système lors de conditions normales | Ratio $\frac{Production}{Consommation}$ | > 1 | / |
 
-*Consommation inférieure à 1 Wh avec déclenchement automatique en cas d'avarie majeure.
-
+*Consommation inférieure à 1 Wh avec déclenchement automatique en cas d'avarie majeure. 
 
 
 # Schéma électrique
