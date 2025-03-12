@@ -155,8 +155,10 @@ La distance entre le puits de dérive et le bord de la boîte étant restreinte,
 
 
 ## Boite N°5
-
-Partie en construction
+-
+-
+- **Capteur de température**
+- **Capteur hygrométrique**
 
 
 # Dérive
