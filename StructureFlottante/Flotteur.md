@@ -17,6 +17,8 @@ Le modèle 3D des flotteurs est donné ci-dessous :
 ```warning
 VUE 3D D'UN DES FLOTTEURS
 ```
+<img src="images/flotteur.png" width=400 alt="Vue 3D d'un flotteur" title="Vue 3D d'un flotteur">
+
 
 ### Fixation des Flotteurs à la Coque
 Les flotteurs seront accrochés à la coque principale par **3 tubes en aluminium** d'un diamètre extérieur de **60 mm** et d'une épaisseur de **5 mm**.
@@ -26,6 +28,9 @@ Des **brides de fixation** seront installées sur des **bastaings** fixés au sq
 ```warning
 IMAGE DES POINTS D'ACCROCHE DES FLOTTEURS AVEC LES TUBES
 ```
+<img src="images/BastaingBrides.png" width=400 alt="Vue 3D d'un des points d'accroche'" title="Vue 3D d'un  des points d'accroche">
+
+Un guide a été conçu afin de percer les bastaings avec un écartement précis. Ce guide permet de positionner les inserts de manière à aligner correctement les brides, assurant ainsi un placement optimal des tubes.
 
 ### Points d'Accroche et Utilisation
 Les brides de fixation des flotteurs permettront d’accrocher divers équipements. Ces points d’accroche sont conçus pour être robustes et fiables. À ce jour, ces points serviront principalement à installer des **lampes** pour signaler la présence des flotteurs. Ils pourront également être utilisés pour fixer des **capteurs** ou tout autre équipement nécessaire.
