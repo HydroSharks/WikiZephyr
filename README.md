@@ -26,6 +26,7 @@ Chaque partie importante du Zéphyr sera documentée dans une page distincte.
 - [Page voile](Voile)
 - [Page Électricité](Electricite)
 - [Page équipement](Equipement)
+
 </details>
 
 
