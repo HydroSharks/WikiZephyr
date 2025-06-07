@@ -8,9 +8,9 @@ Le **Zéphyr** étant un trimaran, il se compose d'une **coque principale** et d
 
 ### Dimensions et Caractéristiques des Flotteurs
 - **Dimensions** : 2.3 m (longueur) x 0.3 m (largeur) x 0.3 m (hauteur)
-- **Volume total** : ___
+- **Volume total** : 0.127 m^3
 - **Densité** : ___
-- **Force d'Archimède associée** : ______ N
+- **Force d'Archimède associée** : 247.3 N
 
 Le modèle 3D des flotteurs est donné ci-dessous :
 
