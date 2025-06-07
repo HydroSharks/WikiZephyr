@@ -4,7 +4,8 @@ sort: 3
 
 # Baie de capteur
 
-La baie de capteur est un trou dans la structure du bateau permettant un accès direct à l'eau. Elle sert à fixer les capteurs et sondes qui interagiront avec l'environnement marin pour collecter des données.  
+La baie de capteur est un trou dans la structure du bateau permettant un accès direct à l'eau. Elle est positionnée entre la boite n°4 et la boite n°5. 
+Cette baie sert à fixer les capteurs et sondes qui interagiront avec l'environnement marin pour collecter des données.  
 
 Deux options sont possibles pour l'installation des capteurs :
 1. Une boîte dans laquelle les sondes et capteurs sont en contact direct avec l'eau.
