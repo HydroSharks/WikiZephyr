@@ -82,7 +82,7 @@ Ces chevrons traversent toute la longueur du bateau, de l’avant à l’arrièr
 - **Hauteurs** : renforts verticaux.  
 - **Traverses** : renforts horizontaux.  
 
-À l’avant, un système spécifique permet de fixer le nez démontable du Zéphyr.
+À l’avant, un système spécifique permet de fixer le nez démontable du Zéphyr. (Cf [Page coque](Coque#Nez))
 
 ![Armature du Zéphyr](images/StructureChevronCoque.png)
 
@@ -195,3 +195,12 @@ Afin de faciliter cette opération, il est proposé d'ajouter des **aimants** da
 
 <img src="images/PuitsDeriveAutoLock.png" width=400 alt="Plan du puits de dérive auto-lock" title="Plan du puits de dérive auto-lock">  
 *Les parties rouges sur le plan sont des goupilles (optionnelles). La dérive tient en place grâce à des encoches et une barre de retenue. Pour faciliter le montage, des aimants ont été intégrés dans le puits de dérive et dans la dérive.*
+
+
+# Nez
+
+Le **nez** du navire sera fixé à l’aide de vis M6. L’étanchéité sera assurée par l’utilisation d’inserts et de joints, tout en conservant la possibilité de démonter le nez pour faciliter la sortie du navire du local. Des perçages ont été réalisés dans le polystyrène pour y insérer des tubes en PVC, lesquels seront intégrés à la stratification. Afin de garantir l’étanchéité, ces tubes seront obturés à l’aide de bouchons en néoprène.
+
+
+<img src="images/Schema_fixation_nez_bateau.JPEG" width=400 alt="Schéma de fixation du nez au bateau" title="Schéma de fixation du nez au bateau">
+<img src="images/Nez3D.png" width=400 alt="Nez 3D du bateau" title="Nez 3D du bateau">

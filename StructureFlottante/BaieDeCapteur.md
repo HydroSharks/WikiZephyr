@@ -36,3 +36,4 @@ L'objectif est de concevoir un mât profilé qui subisse peu de résistance tout
 
 La boîte de la baie de capteur sera fixée à l'aide de **languettes en L** à plusieurs points d'attache afin de garantir une fixation solide et fiable.
 
+<img src="images/Schema_baie_de_capteur.png" width=400 alt="Schema de la baie de capteur" title="Schema de la baie de capteur">
