@@ -29,10 +29,10 @@ Passer une corde dans le tube de maintien de position des gabarits sur le plan p
 
 Pour étanchéifier les blocs support du haut et du bas : [lien verni marin](https://www.amazon.fr/Vernis-marin-Protection-Excellente-r%C3%A9sistance/dp/B08XQR2Q78?th=1).
 
-## Système de commande
+## Système de commande plan principal
 
 # Volet
 
-## Système de commande
+## Système de commande volet
 
 # Baume
