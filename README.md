@@ -24,9 +24,9 @@ Chaque partie importante du Zéphyr sera documentée dans une page distincte.
 
 <ul>
   <li><a href="Coque/README.md">Page Coque</a></li>
-  <li><a href="Voile">Page voile</a></li>
+  <li><a href="Voile">Page Voile</a></li>
   <li><a href="Electricite">Page Électricité</a></li>
-  <li><a href="Equipement">Page équipement</a></li>
+  <li><a href="Equipement">Page Équipement</a></li>
 </ul>
 
 </details>
