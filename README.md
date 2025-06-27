@@ -22,10 +22,12 @@ Chaque partie importante du Zéphyr sera documentée dans une page distincte.
 <details>
 <summary>Liste des pages du Wiki</summary>
 
-- [Page Coque](Coque/README.md)
-- [Page voile](Voile)
-- [Page Électricité](Electricite)
-- [Page équipement](Equipement)
+<ul>
+  <li><a href="Coque/README.md">Page Coque</a></li>
+  <li><a href="Voile">Page voile</a></li>
+  <li><a href="Electricite">Page Électricité</a></li>
+  <li><a href="Equipement">Page équipement</a></li>
+</ul>
 
 </details>
 
