@@ -2,7 +2,7 @@
 sort: 2
 ---
 
-# Voiles
+# Voiles et mâts
 
 ## Relatif aux voiles du Zéphyr
 
