@@ -9,7 +9,7 @@ sort: 1
 - **Hauteur** : 581 mm  
 - **Largeur** : 692 mm 
 
-## Construction
+## Étape de construction
 La construction de la coque repose sur 4 parties principales :  
 1. **Squelette** : réalisé en contreplaqué marine de 5 mm.  
 2. **Armature** : constituée de chevrons.  
@@ -25,7 +25,7 @@ La construction de la coque repose sur 4 parties principales :
 ### Squelette
 
 ```warning
-Comprends pas ce que veut dire la phrase dessous 
+Comprends pas ce que veut dire la phrase dessous. Les traverses on en parle pas ? Et les dessus/dessous ?
 ```
 
 Le squelette comporte des encoches spécifiques sur chaque couple pour s’assembler correctement :
@@ -50,17 +50,24 @@ Ces chevrons traversent toute la longueur du bateau, de l’avant à l’arrièr
 - **Hauteurs** : renforts verticaux.  
 - **Traverses** : renforts horizontaux.  
 
-À l’avant, un système spécifique permet de fixer le nez démontable du Zéphyr. (Cf [Page coque](Coque#Nez))
+À l’avant, un système spécifique permet de fixer le nez démontable du Zéphyr. (Cf [Page coque](Coque###Nez))
 
 ![Armature du Zéphyr](images/StructureChevronCoque.png)
+
+### Forme de la coque
+
+```warning
+je sais pas ce que j'ai écrit
+```
+La **forme de la coque** est créée grâce à des blocs de polystyrènes façonné par un partenaire, ça donne la forme de la coque à la coque et de la flotabilité. (pour avoir une jolie forme c'est mieux de pas être dans le vide).
 
 ### Nez
 
 Le **nez** du navire sera fixé à l’aide de vis M6. L’étanchéité sera assurée par l’utilisation d’inserts et de joints, tout en conservant la possibilité de démonter le nez pour faciliter la sortie du navire du local. Des perçages ont été réalisés dans le polystyrène pour y insérer des tubes en PVC, lesquels seront intégrés à la stratification. Afin de garantir l’étanchéité, ces tubes seront obturés à l’aide de bouchons en néoprène.
 
 
-<img src="images/Schema_fixation_nez_bateau.JPEG" width=400 alt="Schéma de fixation du nez au bateau" title="Schéma de fixation du nez au bateau">
-<img src="images/Nez3D.png" width=400 alt="Nez 3D du bateau" title="Nez 3D du bateau">
+<img src="images/Schema_fixation_nez_bateau.JPEG" width=400 alt="Schéma de fixation du nez au bateau" width=400>
+<img src="images/Nez3D.png" width=400 alt="Nez 3D du bateau" width=300>
 
 <!-- --------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
