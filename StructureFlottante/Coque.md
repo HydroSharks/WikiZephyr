@@ -4,11 +4,12 @@ sort: 1
 
 # Coque
 
-## Dimensions
+### Dimensions
 - **Longueur** : 4680 mm  
 - **Hauteur** : 581 mm  
 - **Largeur** : 692 mm 
 
+### Construction
 La construction de la coque repose sur 4 parties principales :  
 1. **Squelette** : réalisé en contreplaqué marine de 5 mm.  
 2. **Armature** : constituée de chevrons.  
@@ -24,29 +25,32 @@ La construction de la coque repose sur 4 parties principales :
 ### Organisation interne
 La coque est divisée en 5 compartiments vides, appelés *boites*, numérotées de **1** à **5**, chacune ayant une fonction spécifique :
 
-<img src="images/HauteurChevron.png" alt="schéma explicitant différence entre boîtes et sections" width=400/>
+<img src="images/Squelette.png" alt="schéma explicitant différence entre boîtes et sections" width=400/>
 
 | **Boite** | **Section** | **Description** |
 |-----------|-------------|------------------|
-| 1         | 3           | Matériel informatique et communication |
+| 1         | 3           | Matériel informatique et communication (ordinateur de bord)|
 | 2         | 4           | Voile N°1 et batteries principales |
 | 3         | 5           | Puits de dérive, contrôleur de charge et gestionnaire intelligent de la batterie |
 | 4         | 6           | Voile N°2 et éventuellement des batteries (à confirmer) |
-| 5         | 8           | Gouvernail et éventuellement des batteries (à confirmer) |
+| 5         | 8           | Gouvernail et éventuellement des batteries (à confirmer) (aux dernières nouvelles elles sont avec les voiles) |
 
 #### Étanchéité et connectiques
 - La **boite N°1** est entièrement étanche et isolée des autres. Une boîte d’acquisition devra être conçue sur mesure pour gérer les connectiques et l’alimentation de ses composants.
 - Les **boites N°2 à N°5** seront étanches uniquement à leur base. Elles sont reliées par des câbles d’alimentation électrique et d’information pour assurer le fonctionnement coordonné de tous les systèmes.  
   *(Pour plus de détails, voir [Page Électricité](../ArchitectureSysteme/Electricite))*
 
-- Entre les boîtes 4 et 5, nous avons la baie de capteurs.
+- Entre les **boîtes N°4 et N°5**, nous aurons la **baie de capteurs**.
+
+
+```warning
+Toujours pas convaincu de sa place
+```
 
 ### Électricité
 Pour alimenter les équipements externes des boites, une interface de connexion dédiée sera installée. Elle fournira les tensions nécessaires : **5V**, **12V**, et **24V**.
 
-
-
-# Squelette
+#### Squelette
 
 Le squelette comporte des encoches spécifiques sur chaque couple pour s’assembler correctement :
 
