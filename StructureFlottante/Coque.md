@@ -85,14 +85,6 @@ La coque est divisée en 5 compartiments vides, appelés *boites*, numérotées 
 - Entre les **boîtes N°4 et N°5**, nous aurons la **baie de capteurs**.
 
 
-```warning
-Toujours pas convaincu de sa place
-```
-
-## Électricité
-Pour alimenter les équipements externes des boites, une interface de connexion dédiée sera installée. Elle fournira les tensions nécessaires : **5V**, **12V**, et **24V**.
-
-
 ### Description plus précise de l'organisation des boites
 
 #### Boite N°1
@@ -166,6 +158,14 @@ La distance entre le puits de dérive et le bord de la boîte étant restreinte,
 -
 - **Capteur de température**
 - **Capteur hygrométrique**
+
+
+```warning
+Toujours pas convaincu de sa place
+```
+
+## Électricité
+Pour alimenter les équipements externes des boites, une interface de connexion dédiée sera installée. Elle fournira les tensions nécessaires : **5V**, **12V**, et **24V**.
 
 <!-- --------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
