@@ -4,6 +4,8 @@ sort: 3
 
 # Électricité
 
+Pour alimenter les équipements externes des boites, une interface de connexion dédiée sera installée. Elle fournira les tensions nécessaires : **5V**, **12V**, et **24V**.
+
 Le bateau est alimenté en électricité par **deux panneaux solaires de 300 W**.
 
 ```tip

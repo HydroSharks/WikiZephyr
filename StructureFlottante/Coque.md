@@ -56,10 +56,7 @@ Ces chevrons traversent toute la longueur du bateau, de l’avant à l’arrièr
 
 ### Forme de la coque
 
-```warning
-je sais pas ce que j'ai écrit
-```
-La **forme de la coque** est créée grâce à des blocs de polystyrènes façonné par un partenaire, ça donne la forme de la coque à la coque et de la flotabilité. (pour avoir une jolie forme c'est mieux de pas être dans le vide).
+La **forme de la coque** est créée grâce à des blocs de polystyrènes façonné par un partenaire (iXblue), ça donne la forme de la coque à la coque. Plus simple d'avoir un support pour faire la stratification.
 
 ### Nez
 
@@ -165,14 +162,6 @@ La distance entre le puits de dérive et le bord de la boîte étant restreinte,
 -
 - **Capteur de température**
 - **Capteur hygrométrique**
-
-
-```warning
-Toujours pas convaincu de sa place
-```
-
-## Électricité
-Pour alimenter les équipements externes des boites, une interface de connexion dédiée sera installée. Elle fournira les tensions nécessaires : **5V**, **12V**, et **24V**.
 
 <!-- --------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
