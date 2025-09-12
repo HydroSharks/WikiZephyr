@@ -4,6 +4,11 @@ sort: 1
 
 # Coque
 
+## Dimensions
+- **Longueur** : 4680 mm  
+- **Hauteur** : 581 mm  
+- **Largeur** : 692 mm 
+
 La construction de la coque repose sur 4 parties principales :  
 1. **Squelette** : réalisé en contreplaqué marine de 5 mm.  
 2. **Armature** : constituée de chevrons.  
@@ -13,11 +18,13 @@ La construction de la coque repose sur 4 parties principales :
 ### Assemblage
 - **Squelette** : assemblage façon puzzle.  
 - **Armature** : fixée avec des vis.  
-- **Forme de la coque** : collée pour un maintien optimal.  
-- **Nez démontable** : se fixe directement sur l’armature avant du bateau.
+- **Forme de la coque** : collée pour un maintien optimal (colle à bois).  
+- **Nez démontable** : se fixe directement sur l’armature avant du bateau (système de fixation développé plus bas).
 
 ### Organisation interne
 La coque est divisée en 5 compartiments vides, appelés *boites*, numérotées de **1** à **5**, chacune ayant une fonction spécifique :
+
+<img src="images/HauteurChevron.png" alt="schéma explicitant différence entre boîtes et sections" width=400/>
 
 | **Boite** | **Section** | **Description** |
 |-----------|-------------|------------------|
@@ -32,31 +39,12 @@ La coque est divisée en 5 compartiments vides, appelés *boites*, numérotées 
 - Les **boites N°2 à N°5** seront étanches uniquement à leur base. Elles sont reliées par des câbles d’alimentation électrique et d’information pour assurer le fonctionnement coordonné de tous les systèmes.  
   *(Pour plus de détails, voir [Page Électricité](../ArchitectureSysteme/Electricite))*
 
+- Entre les boîtes 4 et 5, nous avons la baie de capteurs.
+
 ### Électricité
 Pour alimenter les équipements externes des boites, une interface de connexion dédiée sera installée. Elle fournira les tensions nécessaires : **5V**, **12V**, et **24V**.
 
-# Dimensions
 
-## Coque
-- **Longueur** : 4680 mm  
-- **Hauteur** : 581 mm  
-- **Largeur** : 692 mm  
-
-## Flotteur
-- **Longueur** : 2325 mm  
-- **Hauteur** : 300 mm  
-- **Hauteur avec brides** : 480 mm  
-- **Largeur** : 300 mm  
-
-Hauteur des chevrons pour les fixation des tubes en aluminium aux flotteurs :  
-
-<img src="images/HauteurChevron.png" alt="Hauteur des chevrons pour la fixation des tubes des flotteurs" width=400/>
-
-
-## Dimensions générales minimales
-- **Longueur** : 4.7 m  
-- **Hauteur totale** : 3.8 m  
-- **Largeur** : 3.3 m  
 
 # Squelette
 
