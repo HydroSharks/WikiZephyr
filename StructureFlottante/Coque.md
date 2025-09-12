@@ -4,53 +4,29 @@ sort: 1
 
 # Coque
 
-### Dimensions
+## Dimensions
 - **Longueur** : 4680 mm  
 - **Hauteur** : 581 mm  
 - **Largeur** : 692 mm 
 
-### Construction
+## Construction
 La construction de la coque repose sur 4 parties principales :  
 1. **Squelette** : réalisé en contreplaqué marine de 5 mm.  
 2. **Armature** : constituée de chevrons.  
 3. **Forme de la coque** : fabriquée en polystyrène.  
 4. **Nez démontable** : pièce amovible fixée à l’avant sur l’armature.
 
-### Assemblage
+## Assemblage
 - **Squelette** : assemblage façon puzzle.  
 - **Armature** : fixée avec des vis.  
 - **Forme de la coque** : collée pour un maintien optimal (colle à bois).  
 - **Nez démontable** : se fixe directement sur l’armature avant du bateau (système de fixation développé plus bas).
 
-### Organisation interne
-La coque est divisée en 5 compartiments vides, appelés *boites*, numérotées de **1** à **5**, chacune ayant une fonction spécifique :
-
-<img src="images/Squelette.png" alt="schéma explicitant différence entre boîtes et sections" width=400/>
-
-| **Boite** | **Section** | **Description** |
-|-----------|-------------|------------------|
-| 1         | 3           | Matériel informatique et communication (ordinateur de bord)|
-| 2         | 4           | Voile N°1 et batteries principales |
-| 3         | 5           | Puits de dérive, contrôleur de charge et gestionnaire intelligent de la batterie |
-| 4         | 6           | Voile N°2 et éventuellement des batteries (à confirmer) |
-| 5         | 8           | Gouvernail et éventuellement des batteries (à confirmer) (aux dernières nouvelles elles sont avec les voiles) |
-
-#### Étanchéité et connectiques
-- La **boite N°1** est entièrement étanche et isolée des autres. Une boîte d’acquisition devra être conçue sur mesure pour gérer les connectiques et l’alimentation de ses composants.
-- Les **boites N°2 à N°5** seront étanches uniquement à leur base. Elles sont reliées par des câbles d’alimentation électrique et d’information pour assurer le fonctionnement coordonné de tous les systèmes.  
-  *(Pour plus de détails, voir [Page Électricité](../ArchitectureSysteme/Electricite))*
-
-- Entre les **boîtes N°4 et N°5**, nous aurons la **baie de capteurs**.
-
+### Squelette
 
 ```warning
-Toujours pas convaincu de sa place
+Comprends pas ce que veut dire la phrase dessous 
 ```
-
-### Électricité
-Pour alimenter les équipements externes des boites, une interface de connexion dédiée sera installée. Elle fournira les tensions nécessaires : **5V**, **12V**, et **24V**.
-
-#### Squelette
 
 Le squelette comporte des encoches spécifiques sur chaque couple pour s’assembler correctement :
 
@@ -64,7 +40,7 @@ Le squelette comporte des encoches spécifiques sur chaque couple pour s’assem
 
 ![Squelette du Zéphyr](images/Squelette.png)
 
-# Armature
+### Armature
 
 L’armature se compose de chevrons de deux tailles distinctes :  
 - **Chevron supérieur** : 50x75 mm, traité en classe 2.  
@@ -78,9 +54,48 @@ Ces chevrons traversent toute la longueur du bateau, de l’avant à l’arrièr
 
 ![Armature du Zéphyr](images/StructureChevronCoque.png)
 
-# Description plus précise de l'organisation des boites
+### Nez
 
-## Boite N°1
+Le **nez** du navire sera fixé à l’aide de vis M6. L’étanchéité sera assurée par l’utilisation d’inserts et de joints, tout en conservant la possibilité de démonter le nez pour faciliter la sortie du navire du local. Des perçages ont été réalisés dans le polystyrène pour y insérer des tubes en PVC, lesquels seront intégrés à la stratification. Afin de garantir l’étanchéité, ces tubes seront obturés à l’aide de bouchons en néoprène.
+
+
+<img src="images/Schema_fixation_nez_bateau.JPEG" width=400 alt="Schéma de fixation du nez au bateau" title="Schéma de fixation du nez au bateau">
+<img src="images/Nez3D.png" width=400 alt="Nez 3D du bateau" title="Nez 3D du bateau">
+
+<!-- --------------------------------------------------------------------------------------------------------------------------------------------------- -->
+
+## Organisation interne
+La coque est divisée en 5 compartiments vides, appelés *boites*, numérotées de **1** à **5**, chacune ayant une fonction spécifique :
+
+<img src="images/Squelette.png" alt="schéma explicitant différence entre boîtes et sections" width=400/>
+
+| **Boite** | **Section** | **Description** |
+|-----------|-------------|------------------|
+| 1         | 3           | Matériel informatique et communication (ordinateur de bord)|
+| 2         | 4           | Voile N°1 et batteries principales |
+| 3         | 5           | Puits de dérive, contrôleur de charge et gestionnaire intelligent de la batterie |
+| 4         | 6           | Voile N°2 et éventuellement des batteries (à confirmer) |
+| 5         | 8           | Gouvernail et éventuellement des batteries (à confirmer) (aux dernières nouvelles elles sont avec les voiles) |
+
+### Étanchéité et connectiques
+- La **boite N°1** est entièrement étanche et isolée des autres. Une boîte d’acquisition devra être conçue sur mesure pour gérer les connectiques et l’alimentation de ses composants.
+- Les **boites N°2 à N°5** seront étanches uniquement à leur base. Elles sont reliées par des câbles d’alimentation électrique et d’information pour assurer le fonctionnement coordonné de tous les systèmes.  
+  *(Pour plus de détails, voir [Page Électricité](../ArchitectureSysteme/Electricite))*
+
+- Entre les **boîtes N°4 et N°5**, nous aurons la **baie de capteurs**.
+
+
+```warning
+Toujours pas convaincu de sa place
+```
+
+## Électricité
+Pour alimenter les équipements externes des boites, une interface de connexion dédiée sera installée. Elle fournira les tensions nécessaires : **5V**, **12V**, et **24V**.
+
+
+### Description plus précise de l'organisation des boites
+
+#### Boite N°1
 
 Dans cette boîte, vous trouverez tous les équipements listés [ici](Equipement#liste-des-équipements-présents-dans-le-zéphyr) :
 
@@ -95,7 +110,7 @@ Dans cette boîte, vous trouverez tous les équipements listés [ici](Equipement
 - **Accéléromètre**
 - **Boussole magnétique**
 
-### Plateforme suspendue
+##### Plateforme suspendue
 Une station suspendue sur amortisseurs, conçue pour servir de plateforme anti-choc, devra être développée pour maintenir les composants électroniques du bateau dans cette boîte.
 
 ```note
@@ -103,7 +118,7 @@ Une station suspendue sur amortisseurs, conçue pour servir de plateforme anti-c
 *Le cahier des charges de la plateforme sera donc centré sur l'absorption des chocs provoqués par les impacts du bateau sur l'eau. Les amortisseurs devront être dimensionnés en fonction des chocs auxquels le Zéphyr pourrait être soumis.*
 ```
 
-## Boite N°2
+#### Boite N°2
 Voici la liste des équipements présents dans la **Boite N°2** :
 
 - **Système de maintien de la voile N°1**
@@ -115,7 +130,7 @@ Voici la liste des équipements présents dans la **Boite N°2** :
 - **Capteur de température**
 - **Capteur hygrométrique**
 
-## Boite N°3
+#### Boite N°3
 
 - **Puits de dérive** (Cf [Page coque](Coque#Dérive))
 - **Système de fixation de la dérive** (Cf [Page coque](Coque#Dérive))
@@ -134,7 +149,7 @@ La distance entre le puits de dérive et le bord de la boîte étant restreinte,
 ```
 
 
-## Boite N°4
+#### Boite N°4
 
 - **Système de maintien de la voile N°2**
 - **Réducteur du mât** (Cf [Page voile](../Voiles/Voile#système-de-commande))
@@ -146,14 +161,15 @@ La distance entre le puits de dérive et le bord de la boîte étant restreinte,
 - **Capteur hygrométrique**
 
 
-## Boite N°5
+#### Boite N°5
 -
 -
 - **Capteur de température**
 - **Capteur hygrométrique**
 
+<!-- --------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
-# Dérive
+## Dérive
 
 La **dérive** se logera dans un puits de dérive et sera statique. Elle sera fixée par **3 vis** (*M16 pour le moment*) de manière à ce que chaque vis supporte un effort et que les moments induits par l'eau sur la dérive soient annulés efficacement. Les trois vis sont situées au-dessus de la ligne de flottaison, pour un poids total de la coque de **540 kg**.
 
@@ -164,7 +180,7 @@ Les dimensions de la dérive sont fournies par les plans suivants (Conception 3D
 <img src="images/PlanDerive2.png" width=400 alt="Plan 2/2 de la dérive" title="Plan dérive 2/2">
 
 
-## Puits de dérive
+### Puits de dérive
 
 Pour calculer les dimensions du **puits de dérive**, une marge de **2 mm** de chaque côté a été ajoutée pour garantir l'étanchéité avec le raccord de stratification, ainsi qu'une **marge supplémentaire de 1 cm** pour faciliter le positionnement de la dérive. Cela donne une longueur intérieure de **410 mm**.
 
@@ -175,7 +191,7 @@ Pour assurer une structure robuste, tout le puits de dérive sera fabriqué en *
 <img src="images/PlanPuitsDeDevrive.png" width=400 alt="Plan du puits de dérive" title="Plan du puits de dérive">
 
 
-## Montage
+### Montage
 
 La solution envisagée pour monter la dérive (24/02/2024) consiste à **lever le bateau** à l'aide de poulies directement sur la remorque. Une fois le bateau levé, la dérive est glissée dans le puits, puis vissée en veillant à ce que les joints soient correctement positionnés pour assurer l'étanchéité des points de fixation. Ce montage nécessitera la présence d'au moins **2 personnes**.
 
@@ -189,10 +205,3 @@ Afin de faciliter cette opération, il est proposé d'ajouter des **aimants** da
 *Les parties rouges sur le plan sont des goupilles (optionnelles). La dérive tient en place grâce à des encoches et une barre de retenue. Pour faciliter le montage, des aimants ont été intégrés dans le puits de dérive et dans la dérive.*
 
 
-# Nez
-
-Le **nez** du navire sera fixé à l’aide de vis M6. L’étanchéité sera assurée par l’utilisation d’inserts et de joints, tout en conservant la possibilité de démonter le nez pour faciliter la sortie du navire du local. Des perçages ont été réalisés dans le polystyrène pour y insérer des tubes en PVC, lesquels seront intégrés à la stratification. Afin de garantir l’étanchéité, ces tubes seront obturés à l’aide de bouchons en néoprène.
-
-
-<img src="images/Schema_fixation_nez_bateau.JPEG" width=400 alt="Schéma de fixation du nez au bateau" title="Schéma de fixation du nez au bateau">
-<img src="images/Nez3D.png" width=400 alt="Nez 3D du bateau" title="Nez 3D du bateau">
