@@ -50,7 +50,7 @@ Ces chevrons traversent toute la longueur du bateau, de l’avant à l’arrièr
 - **Hauteurs** : renforts verticaux.  
 - **Traverses** : renforts horizontaux.  
 
-À l’avant, un système spécifique permet de fixer le nez démontable du Zéphyr. (Cf [Page coque](Coque###Nez))
+À l’avant, un système spécifique permet de fixer le nez démontable du Zéphyr. (Cf [Page coque](#nez))
 
 ![Armature du Zéphyr](images/StructureChevronCoque.png)
 
