@@ -7,5 +7,5 @@ sort: 2
 ## Relatif aux voiles du Zéphyr
 
 - [Voiles](Voile)
-- [Études](Etudes)
+- [Mâts](Mat)
 - [Construction](Construction)
