@@ -7,3 +7,4 @@ sort: 1
 - [Coque](Coque)
 - [Flotteur](Flotteur)
 - [Baie de Capteurs](BaieDeCapteur)
+- [Dérive](Derive)
