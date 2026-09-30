@@ -3,7 +3,6 @@ title: Voiles
 description: Description des voiles
 ---
 
-# Voiles
 Le Zéphyr étant mu seulement par la propulsion vélique, ses deux voiles en sont un élément important.  
 Chacune de ses voiles sont des ***wingsails***, c'est-à-dire des ***voiles rigides***.  
 Pour être plus précis, les *wingsails* sont des voiles empruntées aux navires de courses, qui se composent d'un **plan principal** et d'un **volet**, et dont le principe est identique à celui des ailes d'avions : créer de la "*portance*" grâce au vent vitesse.  

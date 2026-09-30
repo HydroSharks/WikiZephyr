@@ -3,7 +3,6 @@ title: Voiles et mâts
 description: Sommaire
 ---
 
-# Voiles et mâts
 
 ## Relatif aux voiles du Zéphyr
 

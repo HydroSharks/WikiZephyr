@@ -2,8 +2,6 @@
 title: Équipement
 description: Description des équipements présents sur le Zéphyr
 ---
-# Équipements
-
 
 
 # Liste des équipements présents dans le Zéphyr

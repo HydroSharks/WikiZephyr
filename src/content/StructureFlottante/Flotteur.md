@@ -3,8 +3,6 @@ title: Flotteurs
 description: Description des flotteurs
 ---
 
-# Flotteur
-
 Le **Zéphyr** étant un trimaran, il se compose d'une **coque principale** et de **2 flotteurs**. Les flotteurs sont construits de la même manière que la coque, avec un squelette en contreplaqué et une forme en polystyrène.
 
 ### Dimensions et Caractéristiques des Flotteurs

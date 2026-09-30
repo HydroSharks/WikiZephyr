@@ -3,8 +3,6 @@ title: Coques
 description: Description de la coque
 ---
 
-# Coque
-
 ## Dimensions
 - **Longueur** : 4680 mm  
 - **Hauteur** : 581 mm  

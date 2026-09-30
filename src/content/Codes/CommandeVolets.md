@@ -1,5 +1,5 @@
 ---
-title: Code command du volet
+title: Code commande du volet
 description: Description du code de la commande du volet
 ---
 

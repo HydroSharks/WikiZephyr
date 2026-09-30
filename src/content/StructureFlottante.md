@@ -7,5 +7,7 @@ description: Sommaire
 
 - [Coque](/docs/StructureFlottante/Coque)
 - [Flotteur](/docs/StructureFlottante/Flotteur)
-- [Baie de Capteurs](/docs/StructureFlottante/BaieDeCapteur)
 - [Dérive](/docs/StructureFlottante/Derive)
+- [Baie de Capteurs](/docs/StructureFlottante/BaieDeCapteur)
+- [Gouvernail](/docs/StructureFlottante/Gouvernail)
+- [Études](/docs/StructureFlottante/Etudes)

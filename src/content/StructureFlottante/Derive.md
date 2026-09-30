@@ -3,9 +3,6 @@ title: Dérive
 description: Description de la dérive
 ---
 
-# Dérive
-
-## Ancienne idée
 La **dérive** se logera dans un puits de dérive et sera statique. Elle sera fixée par **3 vis** (*M16 pour le moment*) de manière à ce que chaque vis supporte un effort et que les moments induits par l'eau sur la dérive soient annulés efficacement. Les trois vis sont situées au-dessus de la ligne de flottaison, pour un poids total de la coque de **540 kg**.
 
 Les dimensions de la dérive sont fournies par les plans suivants (Conception 3D sur Fusion360 : "*Derive/DeriveZephyr*") :
@@ -15,8 +12,8 @@ Les dimensions de la dérive sont fournies par les plans suivants (Conception 3D
 <img src="/images/structure/PlanDerive2.png" width=400 alt="Plan 2/2 de la dérive" title="Plan dérive 2/2">
 
 
-## Puits de dérive
-
+# Puits de dérive
+## Ancienne idée
 Pour calculer les dimensions du **puits de dérive**, une marge de **2 mm** de chaque côté a été ajoutée pour garantir l'étanchéité avec le raccord de stratification, ainsi qu'une **marge supplémentaire de 1 cm** pour faciliter le positionnement de la dérive. Cela donne une longueur intérieure de **410 mm**.
 
 Pour assurer une structure robuste, tout le puits de dérive sera fabriqué en **contreplaqué marine okoumé de 15 mm d'épaisseur**. La construction se fait de la manière suivante : on colle et visse les deux parties *left side bottom* à la *left side* (de même pour les pièces "*right side bottom*" et "*right side*"), puis on assemble les parties *front* et *back* sur les parties *left side* et *right side* assemblées (voir schémas ci-dessous). La partie *top* se visse avec un joint en néoprène. **Les vis sont à placer sur la conception.**
@@ -26,7 +23,7 @@ Pour assurer une structure robuste, tout le puits de dérive sera fabriqué en *
 <img src="/images/structure/PlanPuitsDeDevrive.png" width=400 alt="Plan du puits de dérive" title="Plan du puits de dérive">
 
 
-## Montage
+### Montage
 
 La solution envisagée pour monter la dérive (24/02/2024) consiste à **lever le bateau** à l'aide de poulies directement sur la remorque. Une fois le bateau levé, la dérive est glissée dans le puits, puis vissée en veillant à ce que les joints soient correctement positionnés pour assurer l'étanchéité des points de fixation. Ce montage nécessitera la présence d'au moins **2 personnes**.
 
@@ -42,3 +39,10 @@ Afin de faciliter cette opération, il est proposé d'ajouter des **aimants** da
 ## Nouvelle idée 
 
 Faire un vrai puit de dérive (un trou dans la coque).
+
+
+
+
+### Montage
+
+

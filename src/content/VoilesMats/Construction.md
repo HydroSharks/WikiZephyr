@@ -3,7 +3,6 @@ title: Construction
 description: Description de la construction voiles
 ---
 
-# Construction
 
 Les profil NACA (plan principal et voile) ont été découpé au laser dans des planches de CP marine de 5mm d'épaisseurs. 
 

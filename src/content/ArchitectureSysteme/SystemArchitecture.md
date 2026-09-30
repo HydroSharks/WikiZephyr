@@ -1,10 +1,8 @@
 ---
-title: Architecture système
+title: Architecture système du Zéphyr
 description: Description de l'architecture système
 ---
 
-
-# Architecture système du Zéphyr
 
 Cette section décrit l'architecture de commande du voilier **Zéphyr** dans ses différents modes. Elle est inspirée de l'architecture de l'[AutoNaut](https://autonaut.itk.ntnu.no/doku.php?id=start).
 

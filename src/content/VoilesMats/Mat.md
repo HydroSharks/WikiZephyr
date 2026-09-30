@@ -3,7 +3,6 @@ title: Mâts
 description: Description des mâts
 ---
 
-# Mâts
 
 Les mâts sont en aluminium. Ils présentent les caractéristiques suivantes :
 
