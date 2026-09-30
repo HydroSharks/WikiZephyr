@@ -3,17 +3,34 @@ title: Dérive
 description: Description de la dérive
 ---
 
-La **dérive** se logera dans un puits de dérive et sera statique. Elle sera fixée par **3 vis** (*M16 pour le moment*) de manière à ce que chaque vis supporte un effort et que les moments induits par l'eau sur la dérive soient annulés efficacement. Les trois vis sont situées au-dessus de la ligne de flottaison, pour un poids total de la coque de **540 kg**.
+# Dérive
+## Nouvelle idée 
 
-Les dimensions de la dérive sont fournies par les plans suivants (Conception 3D sur Fusion360 : "*Derive/DeriveZephyr*") :
+Le puits de dérive est percé de part en part et les parois sont enduites du revètement de la coque, tout comme la dérive. Les parois sont noires, la dérive jaune.
+
+Les dimensions de la dérive sont fournies par les plans suivants (Conception 3D sur Fusion360 : "*Derive/DeriveZephyr*"). Des modifications subtiles ont été faites.
 
 <img src="/images/structure/PlanDerive1.png" width=400 alt="Plan 1/2 de la dérive" title="Plan dérive 1/2">
 
 <img src="/images/structure/PlanDerive2.png" width=400 alt="Plan 2/2 de la dérive" title="Plan dérive 2/2">
 
+### Fixation:
 
-# Puits de dérive
-## Ancienne idée
+Un anneau est fixé sur la plateforme intermédiaire,dans lequel un **fil** passe, fixé d'un côté du puits par un anneau et de l'autre par un taquet. Son rôle est exclusivement de **contrôler la descente** de la dérive lors de la mise à l'eau. A cet endroit, des barres métalliques protègent l'angle du puits.
+
+Un **capot** du même matériau que les autres est fixé en son sommet par vis, accompagné d'une poignée en son centre.Ensuite le poids suffit à la maintenir en place (sûrement pas sur 1 semaine, à étudier).
+
+### Fixation:
+
+Un anneau est fixé sur la plateforme intermédiaire,dans lequel un **fil** passe, fixé d'un côté du puits par un anneau et de l'autre par un taquet. Son rôle est exclusivement de **contrôler la descente** de la dérive lors de la mise à l'eau. A cet endroit, des barres métalliques protègent l'angle du puits.
+
+Un **capot** du même matériau que les autres est fixé en son sommet par vis, accompagné d'une poignée en son centre.Ensuite le poids suffit à la maintenir en place (sûrement pas sur 1 semaine, à étudier).
+
+
+## Ancienne idée: Puits de dérive
+
+La **dérive** se logera dans un puits de dérive et sera statique. Elle sera fixée par **3 vis** (*M16 pour le moment*) de manière à ce que chaque vis supporte un effort et que les moments induits par l'eau sur la dérive soient annulés efficacement. Les trois vis sont situées au-dessus de la ligne de flottaison, pour un poids total de la coque de **540 kg**.
+
 Pour calculer les dimensions du **puits de dérive**, une marge de **2 mm** de chaque côté a été ajoutée pour garantir l'étanchéité avec le raccord de stratification, ainsi qu'une **marge supplémentaire de 1 cm** pour faciliter le positionnement de la dérive. Cela donne une longueur intérieure de **410 mm**.
 
 Pour assurer une structure robuste, tout le puits de dérive sera fabriqué en **contreplaqué marine okoumé de 15 mm d'épaisseur**. La construction se fait de la manière suivante : on colle et visse les deux parties *left side bottom* à la *left side* (de même pour les pièces "*right side bottom*" et "*right side*"), puis on assemble les parties *front* et *back* sur les parties *left side* et *right side* assemblées (voir schémas ci-dessous). La partie *top* se visse avec un joint en néoprène. **Les vis sont à placer sur la conception.**
@@ -35,14 +52,3 @@ Afin de faciliter cette opération, il est proposé d'ajouter des **aimants** da
 
 <img src="/images/structure/PuitsDeriveAutoLock.png" width=400 alt="Plan du puits de dérive auto-lock" title="Plan du puits de dérive auto-lock">  
 *Les parties rouges sur le plan sont des goupilles (optionnelles). La dérive tient en place grâce à des encoches et une barre de retenue. Pour faciliter le montage, des aimants ont été intégrés dans le puits de dérive et dans la dérive.*
-
-## Nouvelle idée 
-
-Faire un vrai puit de dérive (un trou dans la coque).
-
-
-
-
-### Montage
-
-
