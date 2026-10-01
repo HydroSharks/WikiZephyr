@@ -12,7 +12,7 @@ Le profil d'aile prévue pour les voiles est le même que celui des [**AC-72**](
 
 Le **tissu ripstop** a été retenu pour la fabrication des voiles, en raison de son tissage spécifique qui limite la propagation des déchirures. Les couleurs des voiles ont été définies en fonction de critères de visibilité : les voiles principales sont blanches afin d'assurer une bonne visibilité de nuit, tandis que les volets sont orange pour être facilement repérables de jour. Ce choix de couleurs vise également à éviter toute confusion avec le balisage maritime, le orange n'étant pas utilisé dans ce contexte.
 
-## Plan principal
+# Plan principal
 
 La voile est composée de plusieurs gabarits (profil NACA-0025) qui vont donner la forme à la voile, et de bloc support (1 en haut et 1 en bas), ces derniers seront visser directement sur les mâts.  
 Sur le bloc support du haut, on retrouve le système de maintien du volet et des point de fixation pour des câbles. Ces câbles seront tendus du bloc d'en haut au bloc d'en bas afin d'assurer la forme du bord d'attaque du tissu (blanc) face au vent.
@@ -35,6 +35,11 @@ Passer une corde dans le tube de maintien de position des gabarits sur le plan p
 Pour étanchéifier les blocs support du haut et du bas, utiliser du [vernis marin](https://www.amazon.fr/Vernis-marin-Protection-Excellente-r%C3%A9sistance/dp/B08XQR2Q78?th=1).
 
 ## Système de commande plan principal
+### Actionneurs
+Comme nous possédons des vérins, nous restons sur le principe simple bielle-vérin. A développer à partir de fusion, et confirmer.
+
+### Commande
+A faire: régulateur de puissance, automatique... (circuit électronique convertissant un angle de commande en degrés en puissance électrique à destination des vérins)
 
 # Volet
 Le profil utilisé pour le volet est un NACA-0012. Comme pour le plan principal des voiles, il sera composé de plusieurs gabarits pour lui donner sa forme. Il aura également des blocs supports haut et bas vissés aux mâts, qui permettront de fixer la toile (orange). Ces blocs permettront aussi de maintenir et fixer le volet au plan principal.
@@ -55,5 +60,11 @@ Les blocs supports bas du volets et du plan principal seront reliés par une boi
 
 
 ## Système de commande volet
+### Actionneurs
+A concevoir: les problématiques sont différentes du plan principal.
+
+### Commande
+A voir après les actionneurs.
 
 # Baume
+Préciser l'utilisation faite ici.
