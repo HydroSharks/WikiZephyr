@@ -59,7 +59,7 @@ Il y a aussi des chevrons (...x...mm) qui sont posés afin de partitionner en 3,
 
 ### Forme de la coque
 
-La **forme de la coque** est créée grâce à des blocs de polystyrènes façonné par un partenaire (iXblue), qui permet de donner la forme de la coque à la future coque. Effectuer une stratification est plus simple si il y a un support sur lequel s'appuyer.
+La **forme de la coque** est créée grâce à des blocs de polystyrènes façonné par un partenaire (iXblue), qui permet de donner sa forme à la future coque. Effectuer une stratification est plus simple si il y a un support sur lequel s'appuyer.
 
 ### Nez
 
@@ -107,7 +107,7 @@ En termes de coût, les leviers sont les moins chers, surtout en inox.
 Sinon, il existe de nombreuses solutions intéressantes sur ce site :  
 https://www.fixtureworks.com/store/pc/quick-release-clamps-ball-lock-fasteners-c7000.htm
 
-
+Au temps de la première mise à l'eau, le système de fixation est entièrement constitué de vis et boulons encastrés mais ce système a vite rencontré ses limites: lors du serrage les boulons encastrés se détachent de la coque. Ainsi, certains inserts sont abimés et le système (temporaire) est à réétudier. L'étanchéité des capots en contreplaqué est assuré par un joint naval (à préciser).
 
 ### Description plus précise de l'organisation des boites
 
@@ -126,12 +126,16 @@ Dans cette boîte, vous trouverez tous les équipements listés [ici](/docs/Arch
 - **Accéléromètre**
 - **Boussole magnétique**
 
+Bien que les fonctionnalités resteront inchangées, il existe désormais de nouvelles puces qu'il faudra considérer.
+
 ##### Plateforme suspendue
 Une station suspendue sur amortisseurs, conçue pour servir de plateforme anti-choc, devra être développée pour maintenir les composants électroniques du bateau dans cette boîte.
 
 ```text
-*Concevoir une plateforme entièrement suspendue est inutile. Les mouvements de rotation n'ont pas besoin d'être amortis, car cela augmenterait inutilement la complexité du système. Les PC peuvent fonctionner sans problème même inclinés, à condition qu'ils soient correctement ventilés.*  
-*Le cahier des charges de la plateforme sera donc centré sur l'absorption des chocs provoqués par les impacts du bateau sur l'eau. Les amortisseurs devront être dimensionnés en fonction des chocs auxquels le Zéphyr pourrait être soumis.*
+*Concevoir une plateforme entièrement suspendue est inutile. Les mouvements de rotation n'ont pas besoin d'être amortis, car cela augmenterait inutilement la complexité du système. 
+Les PC peuvent fonctionner sans problème même inclinés, à condition qu'ils soient correctement ventilés.*  
+*Le cahier des charges de la plateforme sera donc centré sur l'absorption des chocs provoqués par les impacts du bateau sur l'eau. 
+Les amortisseurs devront être dimensionnés en fonction des chocs auxquels le Zéphyr pourrait être soumis.*
 ```
 
 #### Boite N°2
@@ -155,7 +159,7 @@ Voici la liste des équipements présents dans la **Boite N°2** :
 - **Capteur de température**
 - **Capteur hygrométrique**
 
-Dans cette boîte, les équipements sont montés sur des glissières qui permettent de les relever à l'aide d'une poignée. Ces glissières sont fixées sur les deux lambourdes situées sur les côtés de la boîte. Les câbles des équipements doivent être suffisamment longs pour éviter toute tension lorsqu'ils sont relevés. [Type de glissières envisagé](https://www.leroymerlin.fr/produits/quincaillerie/quincaillerie-du-meuble/compas-verin-coulisseau-coulisse/lot-de-2-coulisses-pour-tiroir-a-billes-hettich-45-kg-l-25-cm-70206941.html)
+Dans cette boîte, les équipements sont montés sur des glissières qui permettent de les relever à l'aide d'une poignée. Ces glissières sont fixées sur les deux lambourdes situées sur les côtés de la boîte. Les câbles des équipements doivent être suffisamment longs pour éviter toute tension lorsqu'ils sont relevés. [Type de glissières envisagé (lien périmé)](https://www.leroymerlin.fr/produits/quincaillerie/quincaillerie-du-meuble/compas-verin-coulisseau-coulisse/lot-de-2-coulisses-pour-tiroir-a-billes-hettich-45-kg-l-25-cm-70206941.html)
 ```text
 La distance entre le puits de dérive et le bord de la boîte étant restreinte, il est essentiel de concevoir un système aussi compact que possible.
 ```
@@ -178,8 +182,6 @@ La distance entre le puits de dérive et le bord de la boîte étant restreinte,
 
 
 #### Boite N°5
--
--
 - **Capteur de température**
 - **Capteur hygrométrique**
 

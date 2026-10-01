@@ -21,7 +21,7 @@ Le mât du plan principal de la voile est un tube en aluminium, dont son diamèt
 
 <img src="/images/voiles/Gabarit_pp_diametres_mats.png" width=400 title="Gabarit plan principal diamètre mâts" alt="Gabarit plan principal diamètre mâts">
 
-Pour tendre les voiles, l'idée qui semble la plus convaincante (Fabien) est d'utiliser des loquets à bascule de ce type-là. La vis permettra de régler la tension sur la voile de manière plutôt précise (1 demi-tour de vis). Ces loquets sont en Inox avec une capacité de maintien de 100 kg. [lien](https://www.amazon.fr/EXLECO-Capacit%C3%A9-R%C3%A9tention-Sauterelles-R%C3%A9glable/dp/B09P863CTS?th=1). L'avantage principale de ce loquet est que l'on peut le cadenasser et empêché que la voile se détende avec les vibrations.
+Pour tendre les voiles, l'idée qui semble la plus convaincante (Fabien) est d'utiliser ce type de [loquets à bascule](https://www.amazon.fr/EXLECO-Capacit%C3%A9-R%C3%A9tention-Sauterelles-R%C3%A9glable/dp/B09P863CTS?th=1). La vis permettra de régler la tension sur la voile de manière plutôt précise (1 demi-tour de vis). Ces loquets sont en Inox avec une capacité de maintien de 100 kg. L'avantage principal de ce loquet est que l'on peut le cadenasser et donc empêcher que la voile se détende avec les vibrations.
 
 <img src="/images/voiles/loquetABascule.jpg" width=400 title="Loquet à bascule" alt="Loquet à bascule">
 
@@ -32,12 +32,12 @@ Passer une corde dans le tube de maintien de position des gabarits sur le plan p
 
 
 
-Pour étanchéifier les blocs support du haut et du bas : [lien verni marin](https://www.amazon.fr/Vernis-marin-Protection-Excellente-r%C3%A9sistance/dp/B08XQR2Q78?th=1).
+Pour étanchéifier les blocs support du haut et du bas, utiliser du [vernis marin](https://www.amazon.fr/Vernis-marin-Protection-Excellente-r%C3%A9sistance/dp/B08XQR2Q78?th=1).
 
 ## Système de commande plan principal
 
 # Volet
-Le profil utilisé pour le volet est un NACA-0012, comme pour le plan principal des voiles, il sera composé de plusieurs gabarits pour lui donner sa forme. Il aura également des blocs supports haut et bas vissé aux mâts, qui permettront de fixer la toile (orange). Ces blocs permettront aussi de maintenir et fixer le volet au plan principal.
+Le profil utilisé pour le volet est un NACA-0012. Comme pour le plan principal des voiles, il sera composé de plusieurs gabarits pour lui donner sa forme. Il aura également des blocs supports haut et bas vissés aux mâts, qui permettront de fixer la toile (orange). Ces blocs permettront aussi de maintenir et fixer le volet au plan principal.
 
 Le mât du volets est également un tube en aluminium et il a pour diamètre 40mm et une épaisseur de 5mm. Le renfort est un tube en aluminium aussi de 20mm de diamètre et à 3mm d'épaisseur.  
 
@@ -45,7 +45,7 @@ Le mât du volets est également un tube en aluminium et il a pour diamètre 40m
 
 La fixation du volet aux plan principal se fait par les blocs supports des volets et des plans principaux. 
 
-Les blocs supports hauts du volets et du plan principal seront reliés par une attache. Un tube de 30mm est fixé par des visses à cette attache et il est placé dans le support haut du plan principal, c'est à ce niveau que l'axe de rotation du volet est. Le second trou de l'attache sert à passer le mâts de 40mm du volets afin que celui-ci soit fixer également grâce à des visses.
+Les blocs supports hauts du volets et du plan principal seront reliés par une attache. Un tube de 30mm est fixé par des vis à cette attache et il est placé dans le support haut du plan principal, c'est à ce niveau que se trouve l'axe de rotation du volet. Le second trou de l'attache sert à passer le mâts de 40mm du volet afin que celui-ci soit fixé également grâce à des vis.
 
 <img src="/images/voiles/Attache.png" width=400 title="Attache volet plan principal" alt="Attache volet plan principal">
 

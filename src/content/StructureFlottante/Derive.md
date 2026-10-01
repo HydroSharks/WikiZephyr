@@ -20,13 +20,6 @@ Un anneau est fixé sur la plateforme intermédiaire,dans lequel un **fil** pass
 
 Un **capot** du même matériau que les autres est fixé en son sommet par vis, accompagné d'une poignée en son centre.Ensuite le poids suffit à la maintenir en place (sûrement pas sur 1 semaine, à étudier).
 
-### Fixation:
-
-Un anneau est fixé sur la plateforme intermédiaire,dans lequel un **fil** passe, fixé d'un côté du puits par un anneau et de l'autre par un taquet. Son rôle est exclusivement de **contrôler la descente** de la dérive lors de la mise à l'eau. A cet endroit, des barres métalliques protègent l'angle du puits.
-
-Un **capot** du même matériau que les autres est fixé en son sommet par vis, accompagné d'une poignée en son centre.Ensuite le poids suffit à la maintenir en place (sûrement pas sur 1 semaine, à étudier).
-
-
 ## Ancienne idée: Puits de dérive
 
 La **dérive** se logera dans un puits de dérive et sera statique. Elle sera fixée par **3 vis** (*M16 pour le moment*) de manière à ce que chaque vis supporte un effort et que les moments induits par l'eau sur la dérive soient annulés efficacement. Les trois vis sont situées au-dessus de la ligne de flottaison, pour un poids total de la coque de **540 kg**.
