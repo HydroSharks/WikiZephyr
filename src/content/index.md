@@ -19,6 +19,12 @@ Le projet Zéphyr consiste en la conception et la construction d'un trimaran aut
 * Expliquer le fonctionnement du Zéphyr ;
 * Avoir un historique des différentes actions menées et justifier ces choix.
 
+## Tâches actuelles
+- Conception du système de contrôle du volet arrière des voiles ;
+- Réflexion et réparation des inserts des capots ;
+- Conception du système de contrôle du safran ;
+- Conception système du safran.
+
 ## Structuration du Wiki
 
 Chaque partie importante du Zéphyr sera documentée dans une page distincte.
