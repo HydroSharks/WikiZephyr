@@ -65,31 +65,31 @@ On s'arrête pour un système à vérin. On souhaite un déplacement angulaire d
 
 On symbolise le problème par un triangle dont l'angle, droit initialement, est noté $\theta$, l'hypoténuse $l$ variable (vérin), le rayon du mât $d$ (petit côté), et le bâti (grand côté) $D$. Alors,
 
-$$
+test
 l(\theta)^2=d^2+D^2+2dD\sin(\theta)
-$$
+test
 
 On veut
 
-$$
+test
 \begin{cases}
     l(-\frac{\pi}{6}^2)=d^2+D^2-dD\\
     l(\frac{\pi}{6}^2)=d^2+D^2+dD
 \end{cases}
 \Longleftrightarrow
 l(\frac{\pi}{6}^2)-l(-\frac{\pi}{6}^2)=2dD
-$$
+test
 
 Pour le vérin choisi, on connaît $l$ et on utilise les conditions initiales ($\theta=90°$) afin de résoudre et d'obtenir:
 
-$$
+test
 \boxed{
 \begin{cases}
     d=5.14\,cm\\
     D=21.39\,cm
 \end{cases}
 }
-$$
+test
 
 > Illustrations à ajouter
 ### Commande
