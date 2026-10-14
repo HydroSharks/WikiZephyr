@@ -61,8 +61,37 @@ Les blocs supports bas du volets et du plan principal seront reliés par une boi
 
 ## Système de commande volet
 ### Actionneurs
-A concevoir: les problématiques sont différentes du plan principal.
+On s'arrête pour un système à vérin. On souhaite un déplacement angulaire de $\pm 30°$ par rapport à l'axe de la voile principale. Le vérin utilisé a une taille minimale de $19.5\,cm$ et maximale de $24.5\,cm$ (course $5\,cm$).
 
+On symbolise le problème par un triangle dont l'angle, droit initialement, est noté $\theta$, l'hypoténuse $l$ variable (vérin), le rayon du mât $d$ (petit côté), et le bâti (grand côté) $D$. Alors,
+
+$$
+l(\theta)^2=d^2+D^2+2dD\sin(\theta)
+$$
+
+On veut
+
+$$
+\begin{cases}
+    l(-\frac{\pi}{6}^2)=d^2+D^2-dD\\
+    l(\frac{\pi}{6}^2)=d^2+D^2+dD
+\end{cases}
+\Longleftrightarrow
+l(\frac{\pi}{6}^2)-l(-\frac{\pi}{6}^2)=2dD
+$$
+
+Pour le vérin choisi, on connaît $l$ et on utilise les conditions initiales ($\theta=90°$) afin de résoudre et d'obtenir:
+
+$$
+\boxed{
+\begin{cases}
+    d=5.14\,cm\\
+    D=21.39\,cm
+\end{cases}
+}
+$$
+
+> Illustrations à ajouter
 ### Commande
 A voir après les actionneurs.
 
