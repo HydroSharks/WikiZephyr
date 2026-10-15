@@ -63,9 +63,11 @@ Les blocs supports bas du volets et du plan principal seront reliés par une boi
 ### Actionneurs
 On s'arrête pour un système à vérin. On souhaite un déplacement angulaire de plus ou moins 30 degrés par rapport à l'axe de la voile principale. Le vérin utilisé a une taille minimale de $19.5\,cm$ et maximale de $24.5\,cm$ (course $5\,cm$).
 
-On symbolise le problème par un triangle dont l'angle, droit initialement, est noté theta, l'hypoténuse l variable (vérin), le rayon du mât d (petit côté), et le bâti (grand côté) D. 
+On symbolise le problème par un triangle dont l'angle, droit initialement, est noté theta, l'hypoténuse l variable (vérin), le rayon du mât d (petit côté), et le bâti (grand côté) D:
 
-Alors on utilise Al-Kashi pour déterminer la relation entre l, d et D. On simplifie en fonction des bornes du système et les conditions initiales (theta=90°) afin de résoudre et d'obtenir:
+<img src="/images/voiles/Plan_commande-2e-voile.pdf" width=400 title="Schéma de commande voile secondaire" alt="Schéma de commande voile secondaire">
+
+Alors on utilise Al-Kashi pour déterminer la relation entre l, d et D. On simplifie en fonction des bornes du système et des conditions initiales (theta=90°) afin de résoudre et d'obtenir:
 
 - d=5.14cm
 - D=21.39cm
