@@ -61,37 +61,16 @@ Les blocs supports bas du volets et du plan principal seront reliés par une boi
 
 ## Système de commande volet
 ### Actionneurs
-On s'arrête pour un système à vérin. On souhaite un déplacement angulaire de $\pm 30°$ par rapport à l'axe de la voile principale. Le vérin utilisé a une taille minimale de $19.5\,cm$ et maximale de $24.5\,cm$ (course $5\,cm$).
+On s'arrête pour un système à vérin. On souhaite un déplacement angulaire de plus ou moins 30 degrés par rapport à l'axe de la voile principale. Le vérin utilisé a une taille minimale de $19.5\,cm$ et maximale de $24.5\,cm$ (course $5\,cm$).
 
-On symbolise le problème par un triangle dont l'angle, droit initialement, est noté $\theta$, l'hypoténuse $l$ variable (vérin), le rayon du mât $d$ (petit côté), et le bâti (grand côté) $D$. Alors,
+On symbolise le problème par un triangle dont l'angle, droit initialement, est noté theta, l'hypoténuse l variable (vérin), le rayon du mât d (petit côté), et le bâti (grand côté) D. 
 
-test
-l(\theta)^2=d^2+D^2+2dD\sin(\theta)
-test
+Alors on utilise Al-Kashi pour déterminer la relation entre l, d et D. On simplifie en fonction des bornes du système et les conditions initiales (theta=90°) afin de résoudre et d'obtenir:
 
-On veut
+- d=5.14cm
+- D=21.39cm
 
-test
-\begin{cases}
-    l(-\frac{\pi}{6}^2)=d^2+D^2-dD\\
-    l(\frac{\pi}{6}^2)=d^2+D^2+dD
-\end{cases}
-\Longleftrightarrow
-l(\frac{\pi}{6}^2)-l(-\frac{\pi}{6}^2)=2dD
-test
-
-Pour le vérin choisi, on connaît $l$ et on utilise les conditions initiales ($\theta=90°$) afin de résoudre et d'obtenir:
-
-test
-\boxed{
-\begin{cases}
-    d=5.14\,cm\\
-    D=21.39\,cm
-\end{cases}
-}
-test
-
-> Illustrations à ajouter
+> Illustrations à ajouter. Les formules ne fonctionnent pas ici.
 ### Commande
 A voir après les actionneurs.
 
